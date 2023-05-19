@@ -1,0 +1,14 @@
+.navbar {
+  border-radius: 0;
+  position:sticky ;
+  background: #FF7A59;
+  color: aliceblue;
+}
+.log {
+  text-align: center;
+}
+#nav-link{
+
+  color: aliceblue;
+
+}
